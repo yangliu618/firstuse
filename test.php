@@ -1,1 +1,4 @@
-test file for git
+<?php
+phpinfo();
+
+
